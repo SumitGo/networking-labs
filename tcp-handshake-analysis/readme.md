@@ -38,3 +38,8 @@ To capture and analyze the TCP 3-way handshake process using Wireshark and under
 - Connection established
 
 ![ACK Packet](screenshot/ACK.png)
+
+## Key Learning
+- TCP uses a 3-step handshake to establish reliable connections
+- Each step ensures both client and server are ready
+- Packet-level analysis helps understand real network behavior
