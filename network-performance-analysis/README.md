@@ -1,14 +1,14 @@
 # Real-World Network Performance Analysis (Latency & Packet Loss)
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes the real-world impact of latency and packet loss on network performance. Instead of using artificial simulations, this analysis relies on live `ping` diagnostics across various global routing paths to observe how physical distance and network congestion affect data transmission.
 
-## 🛠 Tools & Environment
+## Tools & Environment
 * **Diagnostic Tool:** `ping` (ICMP Echo Requests)
 * **Operating System:** Linux
 * **Target Traffic:** Live Internet routing paths
 
-## 🔍 Methodology & Analysis
+## Methodology & Analysis
 
 ### 1. Normal Network Behavior (Baseline)
 To establish a baseline, traffic was routed to a highly optimized, geographically close CDN edge server.
