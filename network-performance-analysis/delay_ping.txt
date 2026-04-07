@@ -1,0 +1,16 @@
+$ ping guide.handmadehero.org
+PING guide.handmadehero.org (64:ff9b::8a44:177a) 56 data bytes
+64 bytes from 64:ff9b::8a44:177a: icmp_seq=1 ttl=43 time=488 ms
+64 bytes from 64:ff9b::8a44:177a: icmp_seq=2 ttl=43 time=395 ms
+64 bytes from 64:ff9b::8a44:177a: icmp_seq=3 ttl=43 time=327 ms
+64 bytes from 64:ff9b::8a44:177a: icmp_seq=4 ttl=43 time=443 ms
+64 bytes from 64:ff9b::8a44:177a: icmp_seq=5 ttl=43 time=466 ms
+64 bytes from 64:ff9b::8a44:177a: icmp_seq=6 ttl=43 time=323 ms
+64 bytes from 64:ff9b::8a44:177a: icmp_seq=7 ttl=43 time=305 ms
+64 bytes from 64:ff9b::8a44:177a: icmp_seq=8 ttl=43 time=536 ms
+64 bytes from 64:ff9b::8a44:177a: icmp_seq=9 ttl=43 time=356 ms
+64 bytes from 64:ff9b::8a44:177a: icmp_seq=10 ttl=43 time=385 ms
+^C
+--- guide.handmadehero.org ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9324ms
+rtt min/avg/max/mdev = 304.730/402.474/536.280/74.159 ms

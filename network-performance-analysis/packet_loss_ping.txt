@@ -1,0 +1,14 @@
+$ ping cisco.com
+PING cisco.com (2001:420:1101:1::185) 56 data bytes
+64 bytes from 2001:420:1101:1::185: icmp_seq=1 ttl=39 time=405 ms
+64 bytes from 2001:420:1101:1::185: icmp_seq=2 ttl=39 time=409 ms
+64 bytes from 2001:420:1101:1::185: icmp_seq=3 ttl=39 time=435 ms
+64 bytes from 2001:420:1101:1::185: icmp_seq=4 ttl=39 time=344 ms
+64 bytes from 2001:420:1101:1::185: icmp_seq=5 ttl=39 time=480 ms
+64 bytes from 2001:420:1101:1::185: icmp_seq=6 ttl=39 time=501 ms
+64 bytes from 2001:420:1101:1::185: icmp_seq=7 ttl=39 time=319 ms
+64 bytes from 2001:420:1101:1::185: icmp_seq=8 ttl=39 time=550 ms
+^C
+--- cisco.com ping statistics ---
+9 packets transmitted, 8 received, 11.1111% packet loss, time 8435ms
+rtt min/avg/max/mdev = 318.667/430.175/549.615/73.125 ms
