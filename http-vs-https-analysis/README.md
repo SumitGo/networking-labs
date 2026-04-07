@@ -1,4 +1,4 @@
-# Application Protocol Analysis: HTTP vs HTTPS 
+# Application Layer Protocol Analysis: HTTP vs HTTPS 
 
 ## 📌 Project Overview
 This project demonstrates the critical security differences between HTTP and HTTPS protocols through live network traffic analysis. By capturing and inspecting packets using Wireshark, this repository highlights why unencrypted web traffic is vulnerable to interception and how TLS secures modern web communications.
