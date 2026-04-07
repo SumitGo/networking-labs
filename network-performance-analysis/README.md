@@ -68,3 +68,6 @@ rtt min/avg/max/mdev = 318.667/430.175/549.615/73.125 ms
 * **TCP Retransmissions:** A packet loss rate of even 11% forces TCP to constantly retransmit lost segments, drastically reducing overall bandwidth and throughput.
 * **Impact on Streaming Services:** High Latency creates noticeable delays in live broadcasting (e.g., VoIP, live sports, satellite feeds).
 * **Packet Loss** directly causes buffering, artifacts, and frame drops in media systems relying on UDP, making protocols like HLS or tools like FFmpeg vital for adaptive bitrate streaming.
+
+
+Corresponding text files of each ping having the commands and the results are in current folder.
