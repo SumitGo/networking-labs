@@ -1,4 +1,4 @@
-# Network Protocol Analysis: HTTP vs HTTPS 
+# Application Protocol Analysis: HTTP vs HTTPS 
 
 ## 📌 Project Overview
 This project demonstrates the critical security differences between HTTP and HTTPS protocols through live network traffic analysis. By capturing and inspecting packets using Wireshark, this repository highlights why unencrypted web traffic is vulnerable to interception and how TLS secures modern web communications.
@@ -6,7 +6,7 @@ This project demonstrates the critical security differences between HTTP and HTT
 ## 🛠 Tools & Environment
 * **Packet Analyzer:** Wireshark
 * **Operating System:** Linux
-* **Target Traffic:** Live web browsing sessions
+* **Target Traffic:** Chrome(https:/github.com & http:/number-none.com)
 
 ## 🔍 Methodology & Analysis
 
